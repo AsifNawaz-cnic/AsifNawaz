@@ -1,21 +1,48 @@
-## Hi! 👋 I am Asif Nawaz, MSc Graduate, Software Engineer, University of Hertfordshire.
+# Hi, I'm Asif Nawaz 👋
 
-<p align="left" style="background-image: url('https://gfycat.com/bigfocusedcassowary');">
-  <img src="https://i.pinimg.com/originals/40/72/d2/4072d2ad5f640ccbe88d9d5b82e2d702.png" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <br>
-  <img src="https://onepatch.com/wp-content/uploads/2020/03/NODEJS_CIRCLE.gif" width="100">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PPVzDHJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://vsoch.github.io/assets/images/posts/learning-go/gophercises_jumping.gif" width="100">
-</p>
+### MSc Graduate | Software Engineer at Team Internet Group PLC
 
-## ✨ My Github Stats
-![Asif Nawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifNawaz-cnic&show_icons=true&theme=dark)
+---
 
-<!-- - ### 🔭 Working at CentralNic Ltd -->
-## 🌱 Working as a Software Engineer, Middleware Dept at Team Internet Group PLC.
+## About Me
+I am a Software Engineer with a Master's degree from the University of Hertfordshire. Currently, I am working in the Middleware Department at Team Internet Group PLC, focusing on API integration, middleware solutions, and cloud technologies. I am passionate about automating workflows and optimizing system performance.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsifNawaz-cnic" alt="AsifNawaz" /> </p>
+---
+
+## 🛠️ Technical Skills
+- **Languages:** JavaScript, Python, PHP, Go, Node.js, Shell
+- **Frameworks:** Express.js, Flask
+- **Technologies:** Docker, Kubernetes, WHMCS, RESTful APIs, GraphQL
+- **Tools:** Git, Jenkins, Ansible, CI/CD pipelines
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Cloud:** AWS, Azure, Google Cloud Platform
+
+---
+
+## 🚀 Current Role
+**Software Engineer | Middleware Department at Team Internet Group PLC**  
+I work on developing middleware solutions, API integration, and optimizing internal processes for better performance and scalability.
+
+---
+
+## 💼 Key Projects
+
+### [🔗 Docker Run Action](https://github.com/AsifNawaz-cnic/docker-run-action)
+A GitHub action to run Docker containers. This project enhances CI/CD workflows by allowing dynamic container execution.
+
+### [🔗 Release Notes Generator](https://github.com/AsifNawaz-cnic/release-notes-generator)
+Forked from the official semantic-release plugin, this project generates release notes based on conventional changelog standards.
+
+### [🔗 Middleware Semantic Release for WHMCS](https://github.com/AsifNawaz-cnic/rtldev-middleware-semantic-release-whmcs)
+A tool to publish module changes to WHMCS Marketplace, automating the release pipeline for WHMCS modules.
+
+---
+
+## 📊 GitHub Stats
+![Asif Nawaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifNawaz-cnic&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/iamasifnawaz)
+
