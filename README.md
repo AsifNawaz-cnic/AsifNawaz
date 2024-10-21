@@ -10,12 +10,12 @@ I am a Software Engineer with a Master's degree from the University of Hertfords
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** JavaScript, Python, PHP, Go, Node.js, Shell
-- **Frameworks:** Express.js, Flask
-- **Technologies:** Docker, Kubernetes, WHMCS, RESTful APIs, GraphQL
-- **Tools:** Git, Jenkins, Ansible, CI/CD pipelines
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Languages:** JavaScript, PHP, Go, Node.js, Python
+- **Frameworks & Libraries:** LitJS, Express.js, Flask
+- **Technologies:** WHMCS Development, RESTful APIs, IDNA Converters
+- **Tools:** Docker, Git, Jenkins, CI/CD pipelines
+- **Database:** MySQL, MongoDB
+- **Cloud:** AWS
 
 ---
 
