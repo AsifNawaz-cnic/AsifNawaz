@@ -27,14 +27,11 @@ I work on developing middleware solutions, API integration, and optimizing inter
 
 ## 💼 Key Projects
 
-### [🔗 Docker Run Action](https://github.com/AsifNawaz-cnic/docker-run-action)
-A GitHub action to run Docker containers. This project enhances CI/CD workflows by allowing dynamic container execution.
+### [🔗 Domain Search Addon for WHMCS](https://github.com/centralnicgroup-opensource/rtldev-middleware-whmcs)
+Developed a WHMCS Domain Search Addon using **JavaScript**, **PHP**, and **LitJS**. This addon is part of the CentralNic middleware suite, enhancing domain search functionalities by integrating with CentralNic services.
 
-### [🔗 Release Notes Generator](https://github.com/AsifNawaz-cnic/release-notes-generator)
-Forked from the official semantic-release plugin, this project generates release notes based on conventional changelog standards.
-
-### [🔗 Middleware Semantic Release for WHMCS](https://github.com/AsifNawaz-cnic/rtldev-middleware-semantic-release-whmcs)
-A tool to publish module changes to WHMCS Marketplace, automating the release pipeline for WHMCS modules.
+### [🔗 PHP IDNA Converter](https://github.com/centralnicgroup-opensource/rtldev-middleware-php-idna-translator)
+Worked on a **PHP** IDNA Converter for domain name translations. This tool is essential for handling internationalized domain names (IDN) and ensuring proper encoding and decoding.
 
 ---
 
